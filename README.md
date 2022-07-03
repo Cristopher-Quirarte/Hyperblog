@@ -1,4 +1,4 @@
-# :fa-star: Hyperblog Cristopher Quirarte :fa-star: 
+#  Hyperblog Cristopher Quirarte
 
 ###### Hyperblog de aprendizaje como parte del curso de programación básica y git &amp; github.
 
